@@ -17,13 +17,13 @@ p, li {
 
 
 html {
-  background-color: #000224;
+  background-color: #FFFFE4;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FFFFE4;
+  background-color: #000224;
   padding: 0 20px 20px 20px;
   border: 5px solid black;
 }
@@ -31,7 +31,7 @@ body {
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #000224;
+  color: #FFFFE4;
   text-shadow: 3px 3px 1px black;
 }
 
